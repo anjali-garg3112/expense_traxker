@@ -32,5 +32,5 @@ const ExpenseCard = ({ transactions }) => {
         </Container>
     )
 }
-
+}
 export default ExpenseCard;
